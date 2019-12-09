@@ -156,3 +156,17 @@ title: Resources
 * [PEAP: Pwned Extensible Authentication Protocol](http://www.willhackforsushi.com/presentations/PEAP_Shmoocon2008_Wright_Antoniewicz.pdf)
 * [Practical and Improved MitM with Mana](https://www.youtube.com/watch?v=eYsGyvGxlpI)
 * [W1F1](https://w1f1.net)
+
+### Cyber Security CTF's
+
+* rootme.org
+* hackthebox.eu
+* ctftime.org
+* adworld.xctf.org.cn
+* ctf101.org
+* ctf365.com
+* 365.csaw.io
+* vulnhub.com
+* ringzer0ctf.com
+* majorleaguecyber.org
+* picoctf.com
