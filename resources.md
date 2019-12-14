@@ -156,3 +156,14 @@ title: Resources
 * [PEAP: Pwned Extensible Authentication Protocol](http://www.willhackforsushi.com/presentations/PEAP_Shmoocon2008_Wright_Antoniewicz.pdf)
 * [Practical and Improved MitM with Mana](https://www.youtube.com/watch?v=eYsGyvGxlpI)
 * [W1F1](https://w1f1.net)
+
+### Security CTF's
+
+* [Index of all past, and upcoming CTF's with write ups](https://ctftime.org/)
+* [PICOCTF for beginners and experts by Carnegie Melon University](picoctf.com)
+* [Root-me platform to train your hacking skills](https://www.root-me.org/?lang=en)
+* [SANS annual holiday themed hacking adventure](https://holidayhackchallenge.com)
+* [Google's annual hacking contest, with a beginners area](https://capturetheflag.withgoogle.com/)
+* [Hack the box pentesting practice platform](hackthebox.eu)
+* [RingZer0 hacking platform to build skills](https://ringzer0ctf.com/)
+* [The CSAW platform for beginners and experts](https://365.csaw.io/)
